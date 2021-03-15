@@ -1,0 +1,36 @@
+body {background-color:black;}
+
+h1	{color:red;
+	 text-align:center;
+	 border-radius:10px;
+	 border-bottom: 2px solid #ff5349;
+	}
+	
+caption {color:red;
+		 padding:10px;
+		 font-weight:900;
+		 font-family:'Roboto' , sans-serif;
+		 height: 30px;
+		 width: 290px;
+		 font-size:20px;
+		 border-radius:15px;
+		 border:10px solid #ff5349;
+		 margin-bottom:10px;
+		}
+		
+table	{text-align:center;
+		 width:100%;
+		}
+
+th	{color:red;
+	 font-size:25px;
+	 height:80px;
+	 background-color:white;
+	}
+	
+td	{color:red;
+	 background-color:white;
+	 font-weight:900;
+	 width:100px;
+	}
+	
